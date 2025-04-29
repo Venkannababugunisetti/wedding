@@ -2073,7 +2073,7 @@ a:focus {
 #0.5	footer
 --------------------------------------------------------------*/
 .site-footer {
-  background: url("../images/footer-bg.jpg") center center/cover no-repeat local;
+  background: url("../images/new-images/APP_0345-2.JPG") center center/cover no-repeat local;
   text-align: center;
   color: #fff;
   padding: 160px 0;
@@ -3246,12 +3246,12 @@ a:focus {
 --------------------------------------------------------------*/
 .gallery-section {
   /*** filter ***/
+  margin-top: -120px;
 }
 
 .gallery-section .gallery-filters {
   text-align: left;
   margin-bottom: 35px;
-  margin-top: -40px;
 }
 
 @media (max-width: 767px) {
